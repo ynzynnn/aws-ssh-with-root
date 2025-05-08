@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🔐 Amazon EC2 Root SSH Login dengan Password
 
 Repository ini menyediakan skrip otomatis untuk mengubah metode login SSH pada instance Amazon EC2 dari menggunakan SSH key menjadi login dengan password seperti pada VPS konvensional.
@@ -24,7 +24,6 @@ Repository ini menyediakan skrip otomatis untuk mengubah metode login SSH pada i
 - Akses awal ke EC2 via SSH Key
 - Akses root atau sudo ke dalam sistem
 
----
 
 ## 🛠️ Cara Penggunaan
 
