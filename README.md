@@ -57,23 +57,6 @@ Gunakan password default: `yanz1212` (ubah segera setelah login!).
 
 ---
 
-## 📁 Apa yang dilakukan `setup.sh`
-
-```bash
-# Backup konfigurasi lama
-cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak
-
-# Ubah konfigurasi SSH
-PermitRootLogin yes
-PasswordAuthentication yes
-
-# Set password root (preset)
-root:yanz1212
-
-# Restart service
-systemctl restart ssh
-```
-
 ## 🧱 Catatan Tambahan
 
 * Password root saat ini adalah `yanz1212`. **Ganti sesegera mungkin** dengan perintah: `passwd`
