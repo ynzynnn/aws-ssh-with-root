@@ -1,6 +1,3 @@
-Berikut adalah versi terbaru dari `README.md` yang disesuaikan langsung dengan isi dari `setup.sh` milikmu:
-
----
 
 ````markdown
 # 🔐 Amazon EC2 Root SSH Login dengan Password
