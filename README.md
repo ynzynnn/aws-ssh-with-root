@@ -36,7 +36,7 @@ ssh -i your-key.pem ubuntu@your-ec2-ip
 2. **Unduh repository ini dan masuk ke dalamnya:**
 
 ```bash
-git clone https://github.com/username/ec2-root-ssh-login.git
+git clone https://github.com/ynzynnn/aws-ssh-with-root
 cd ec2-root-ssh-login
 ```
 
