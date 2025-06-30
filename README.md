@@ -1,6 +1,7 @@
 
 
 # 🔐 Amazon EC2 Root SSH Login dengan Password
+![Ubuntu](https://img.shields.io/badge/Ubuntu-✔️-e95420?logo=ubuntu)
 
 Repository ini menyediakan skrip otomatis untuk mengubah metode login SSH pada instance Amazon EC2 dari menggunakan SSH key menjadi login dengan password seperti pada VPS konvensional.
 
